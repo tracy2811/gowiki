@@ -4,13 +4,13 @@ Simple Go web app with slight modification to [Offical Golang's tutorial](https:
 
 ## Run server
 
-  1. Clone repo
+1. Clone repo
 
     ```
     git clone https://github.com/tracy2811/gowiki.git 
     cd gowiki
     ```
-  2. Run server
+2. Run server
 
     * On Local Machine
 
